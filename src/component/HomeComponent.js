@@ -20,6 +20,7 @@ import profilepic1 from "./img/profile-pic1.jpg"
 import hqdefault from "./img/hqdefault.jpg"
 import hq720 from "./img/hq720.webp"
 import channel4 from "./img/channels4_profile.jpg"
+import "./videos.json"
 
 function HomeComponent() {
     return (
