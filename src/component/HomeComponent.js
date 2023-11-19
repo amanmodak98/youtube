@@ -19,7 +19,16 @@ import profilepic from "./img/profile-pic.jpg"
 import profilepic1 from "./img/profile-pic1.jpg"
 import hqdefault from "./img/hqdefault.jpg"
 import hq720 from "./img/hq720.webp"
+import hq721 from "./img/hq721.webp"
+import hq722 from "./img/hq722.webp"
+import hq723 from "./img/hq723.webp"
+import hq724 from "./img/hq724.webp"
+import hq725 from "./img/hq725.webp"
+import unnamed1 from "./img/unnamed1.jpg"
+import unnamed2 from "./img/unnamed2.jpg"
+import hqdefault1 from "./img/hqdefault1.webp"
 import channel4 from "./img/channels4_profile.jpg"
+import channel5 from "./img/channels4_profile1.jpg"
 import "./videos.json"
 
 function HomeComponent() {
@@ -85,12 +94,12 @@ function HomeComponent() {
                     <VideoPreview title="RIT Roorkee Roadies || RIT Roorkee || Roadies Day 1 Part 1 || Aman Modak Vlogs @craze4study761" thumbnail1={profilepic} channellogo={profilepic1} ChannelName="Bombastic Vlogger" views="1.6k" uploadtime="8 weeks ago"></VideoPreview>
                     <VideoPreview title="Bas Ek Baar | Soham Naik, Aamir Ali | Sanjeeda Sheikh | Anurag Saikia | Latest Hindi Romantic Songs" thumbnail1={hqdefault} channellogo={unnamed} ChannelName="Times Music" views="45.3m" uploadtime="6 years ago"></VideoPreview>
                     <VideoPreview title="Netaji Subhas Chandra Bose : The Forgotten Hero (2004) Full Hindi Movie | Sachin Khedekar" thumbnail1={hq720} channellogo={channel4} ChannelName="Goldmines Bollywood" views="41m" uploadtime="4 years ago"></VideoPreview>
-                    <VideoPreview title="Bas Ek Baar | Soham Naik, Aamir Ali | Sanjeeda Sheikh | Anurag Saikia | Latest Hindi Romantic Songs" thumbnail1={hqdefault} channellogo={unnamed} ChannelName="Times Music" views="45.3m" uploadtime="6 years ago"></VideoPreview>
-                    <VideoPreview title="Bas Ek Baar | Soham Naik, Aamir Ali | Sanjeeda Sheikh | Anurag Saikia | Latest Hindi Romantic Songs" thumbnail1={hqdefault} channellogo={unnamed} ChannelName="Times Music" views="45.3m" uploadtime="6 years ago"></VideoPreview>
-                    <VideoPreview title="Bas Ek Baar | Soham Naik, Aamir Ali | Sanjeeda Sheikh | Anurag Saikia | Latest Hindi Romantic Songs" thumbnail1={hqdefault} channellogo={unnamed} ChannelName="Times Music" views="45.3m" uploadtime="6 years ago"></VideoPreview>
-                    <VideoPreview title="Bas Ek Baar | Soham Naik, Aamir Ali | Sanjeeda Sheikh | Anurag Saikia | Latest Hindi Romantic Songs" thumbnail1={hqdefault} channellogo={unnamed} ChannelName="Times Music" views="45.3m" uploadtime="6 years ago"></VideoPreview>
-                    <VideoPreview title="Bas Ek Baar | Soham Naik, Aamir Ali | Sanjeeda Sheikh | Anurag Saikia | Latest Hindi Romantic Songs" thumbnail1={hqdefault} channellogo={unnamed} ChannelName="Times Music" views="45.3m" uploadtime="6 years ago"></VideoPreview>
-                    <VideoPreview title="Bas Ek Baar | Soham Naik, Aamir Ali | Sanjeeda Sheikh | Anurag Saikia | Latest Hindi Romantic Songs" thumbnail1={hqdefault} channellogo={unnamed} ChannelName="Times Music" views="45.3m" uploadtime="6 years ago"></VideoPreview>
+                    <VideoPreview title="Avengers in 80s, Hela with 10 Rings, A New Superhero & Much More | What if Season 2 | SuperSuper" thumbnail1={hq721} channellogo={unnamed1} ChannelName="SuperSuper" views="122k" uploadtime="2 days ago"></VideoPreview>
+                    <VideoPreview title="The Marvels Spoiler-Free Review | SuperReview" thumbnail1={hqdefault1} channellogo={unnamed1} ChannelName="SuperSuper" views="94k" uploadtime="8 days ago"></VideoPreview>
+                    <VideoPreview title="Submarine Types | Akula Class | Kilo Class | Scorpion Class | Tyan Class | AIP | Nuclear Submarine" thumbnail1={hq722} channellogo={unnamed2} ChannelName="Khan GS Research Center" views="1.8m" uploadtime="2 dayss ago"></VideoPreview>
+                    <VideoPreview title="Sajde | Full Song | Kill Dil | Ranveer, Parineeti, Arijit Singh, Nihira | Shankar-Ehsaan-Loy, Gulzar" thumbnail1={hq723} channellogo={channel5} ChannelName="YRF" views="52m" uploadtime="8 years ago"></VideoPreview>
+                    <VideoPreview title="Bas Ek Baar | Soham Naik, Aamir Ali | Sanjeeda Sheikh | Anurag Saikia | Latest Hindi Romantic Songs" thumbnail1={hq724} channellogo={unnamed} ChannelName="Times Music" views="45.3m" uploadtime="6 years ago"></VideoPreview>
+                    <VideoPreview title="Bas Ek Baar | Soham Naik, Aamir Ali | Sanjeeda Sheikh | Anurag Saikia | Latest Hindi Romantic Songs" thumbnail1={hq725} channellogo={unnamed} ChannelName="Times Music" views="45.3m" uploadtime="6 years ago"></VideoPreview>
                     <VideoPreview title="Bas Ek Baar | Soham Naik, Aamir Ali | Sanjeeda Sheikh | Anurag Saikia | Latest Hindi Romantic Songs" thumbnail1={hqdefault} channellogo={unnamed} ChannelName="Times Music" views="45.3m" uploadtime="6 years ago"></VideoPreview>
                     <VideoPreview title="Bas Ek Baar | Soham Naik, Aamir Ali | Sanjeeda Sheikh | Anurag Saikia | Latest Hindi Romantic Songs" thumbnail1={hqdefault} channellogo={unnamed} ChannelName="Times Music" views="45.3m" uploadtime="6 years ago"></VideoPreview>
                     <VideoPreview title="Bas Ek Baar | Soham Naik, Aamir Ali | Sanjeeda Sheikh | Anurag Saikia | Latest Hindi Romantic Songs" thumbnail1={hqdefault} channellogo={unnamed} ChannelName="Times Music" views="45.3m" uploadtime="6 years ago"></VideoPreview>
